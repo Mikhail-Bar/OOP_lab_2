@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class CicrcleTest {
+public class CircleTest {
     @Test
     void testCircleConst() {
         Point p1 = new Point(1, 2);
